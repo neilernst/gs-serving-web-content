@@ -1,3 +1,5 @@
+exclude:
+- /initial/src/main/java/hello/.*
 component_depth: 6
 languages:
 - java
